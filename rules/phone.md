@@ -20,7 +20,7 @@ Validates phone number format.
 
 <installation repo="phone"></installation>
 
-# Usage
+## Usage
 
 ```php
 use LVR\Phone\Phone;

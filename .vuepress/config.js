@@ -25,6 +25,7 @@ module.exports = {
                     'rules/phone',
                     'rules/subdomain',
                     'rules/timezone',
+                    'rules/us-state',
                 ]
             }
         ]
