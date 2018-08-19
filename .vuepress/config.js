@@ -24,6 +24,7 @@ module.exports = {
                     'rules/ip',
                     'rules/phone',
                     'rules/subdomain',
+                    'rules/timezone',
                 ]
             }
         ]
