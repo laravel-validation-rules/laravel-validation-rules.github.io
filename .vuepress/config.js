@@ -19,6 +19,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     'rules/colour',
+                    'rules/country-codes',
                     'rules/credit-card',
                     'rules/subdomain',
                 ]
