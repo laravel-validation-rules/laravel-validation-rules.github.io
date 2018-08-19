@@ -18,7 +18,8 @@ module.exports = {
                 title: 'Rules',
                 collapsable: false,
                 children: [
-                    'rules/subdomain'
+                    'rules/colour',
+                    'rules/subdomain',
                 ]
             }
         ]
