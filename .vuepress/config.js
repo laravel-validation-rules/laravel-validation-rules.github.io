@@ -22,6 +22,7 @@ module.exports = {
                     'rules/country-codes',
                     'rules/credit-card',
                     'rules/ip',
+                    'rules/phone',
                     'rules/subdomain',
                 ]
             }
