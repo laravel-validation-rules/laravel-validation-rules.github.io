@@ -21,6 +21,7 @@ module.exports = {
                     'rules/colour',
                     'rules/country-codes',
                     'rules/credit-card',
+                    'rules/email-validation-mailgun',
                     'rules/ip',
                     'rules/phone',
                     'rules/subdomain',
