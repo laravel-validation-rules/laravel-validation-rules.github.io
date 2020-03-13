@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Laravel Validation Rules',
-    description: 'A collection of Laravel 5 validation engine rules.',
+    description: 'A collection of Laravel validation engine rules.',
     base: '/',
     themeConfig: {
         search: true,
